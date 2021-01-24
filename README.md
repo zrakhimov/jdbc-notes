@@ -6,6 +6,8 @@
 
 [Week 1 - Accessing Databases with JDBC](#accessing-databases-with-jdbc)
 
+[Relational Database Systems](#relational-database-systems)
+
 ## Accessing Databases with JDBC
 
 ```java
@@ -97,5 +99,19 @@ public class ConnectMySql {
 }
 
 ```
+
+
+## Relational Database Systems
+
+* A **database system** consists of a database, the software that stores and manages data in the database, and the application programs that present data and enable the user to interact with the database system.
+
+![Diagram Here](visual1.png)
+
+
+* A **database** is a repository of data that form information. When you download a database system such as MySQL, Oracle or MS SQL Server, you actually downloading the software called *database management system* (DBMS).
+
+* The applications can be viewed as the *interfaces* between the databse system and its users. Those applications can be GUI or web applications.
+
+
 
 
